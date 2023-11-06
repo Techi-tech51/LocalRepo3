@@ -1,1 +1,1 @@
-# Checking last time to conform - whether am i able to push file in git or not.
+# Checking last time to confirm - whether am i able to push files in git or not.
